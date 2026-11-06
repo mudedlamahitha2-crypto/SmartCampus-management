@@ -1,0 +1,6 @@
+.git
+target/*.jar.original
+app.log
+cookies.txt
+README.md
+docs/
